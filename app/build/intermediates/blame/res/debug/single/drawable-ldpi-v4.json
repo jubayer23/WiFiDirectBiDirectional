@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/md.jubayer/developmnet/AndroidStudioProjects/WiFiDirect/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_on_off.png",
+        "source": "/Users/md.jubayer/developmnet/AndroidStudioProjects/WiFiDirect/app/src/main/res/drawable-ldpi/ic_action_on_off.png"
+    },
+    {
+        "merged": "/Users/md.jubayer/developmnet/AndroidStudioProjects/WiFiDirect/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/md.jubayer/developmnet/AndroidStudioProjects/WiFiDirect/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/md.jubayer/developmnet/AndroidStudioProjects/WiFiDirect/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_action_discover.png",
+        "source": "/Users/md.jubayer/developmnet/AndroidStudioProjects/WiFiDirect/app/src/main/res/drawable-ldpi/ic_action_discover.png"
+    },
+    {
+        "merged": "/Users/md.jubayer/developmnet/AndroidStudioProjects/WiFiDirect/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/md.jubayer/developmnet/AndroidStudioProjects/WiFiDirect/app/src/main/res/drawable-ldpi/icon.png"
+    }
+]
